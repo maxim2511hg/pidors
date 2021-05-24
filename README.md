@@ -6,4 +6,6 @@ pidor create ("NAME")
 # Lox, gay, boi
  description edit ("lox")
 ```
-1. Дадо
+- [x] НЕГРЫ ПИДОРАСЫ
+- [ ] СЕКС
+- [x] КОЛЯ ПИДР
