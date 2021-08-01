@@ -2,9 +2,9 @@
 Этот репозиторий создан для пидорасов. Если вы не пидорас, ~~рекомендую вам стать им.~~
 ## Код для создания пидорасов.
 ```
-pidor.create ("NAME")
+pidor.create("NAME")
 # Lox, gay, boi
- description.edit ("lox")
+ description.edit("lox")
 ```
 - [x] НЕГРЫ ПИДОРАСЫ
 - [ ] СЕКС
